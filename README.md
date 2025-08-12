@@ -1,3 +1,3 @@
 ```
-irm https://go.bibica.net/edge-multi | iex
+irm https://go.bibica.net/chromium_portable | iex
 ```
